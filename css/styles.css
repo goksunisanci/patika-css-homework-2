@@ -1,0 +1,53 @@
+.container {
+    width: 89%;
+    margin: 8px auto;
+    text-align: center;
+}
+
+.search-container {
+    background-color: #EEEEEE;
+    margin: 0 0 2px 0;
+}
+
+.link-container {
+    height: 74px;
+}
+
+#searches {
+    background-color: #7EE5DA;
+    display: inline-block;
+    width: 40%;
+    height: 100%;
+    vertical-align: top;
+}
+
+#help {
+    background-color: #70CCC2 ;
+    display: inline-block;
+    width: calc(20% - 4px);
+    height: 100%;
+    vertical-align: top;
+    margin: 0 2px;
+    font-size: smaller;
+}
+
+a {
+    text-decoration: underline;
+}
+
+#subscribe {
+    background-color: #62B3AA;
+    display: inline-block;
+    width: 40%;
+    vertical-align: top;
+    font-size: smaller;
+}
+
+.bottom-container {
+    font-size: smaller;
+    margin-top: 20px;
+}
+
+#search-input {
+    width: 300px;
+}
