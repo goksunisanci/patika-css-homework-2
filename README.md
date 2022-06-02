@@ -1,2 +1,2 @@
-# patika-css-homework-2
-Google 1998
+# Bootcamp Acceleration Program - JavaScript
+## [Css - Homework 2](https://app.patika.dev/courses/css/odev2)
